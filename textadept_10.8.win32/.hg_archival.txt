@@ -1,0 +1,5 @@
+repo: 76eb99328bb59a0000c071a1e5803de9618f2075
+node: d40c3fab6fb45e8b3cd8fb6c144ba57f92117e04
+branch: default
+latesttag: textadept_10.7
+latesttagdistance: 17
